@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Authentication-role-based-authorization.props" />
+</Project>

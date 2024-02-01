@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FE7/5ZQuWepGBtPlIT1ywLu44rnopmkMPsCxnsfqdlo=",
+  "Source": "Authentication-role-based-authorization",
+  "BasePath": "_content/Authentication-role-based-authorization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
